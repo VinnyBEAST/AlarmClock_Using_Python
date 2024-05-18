@@ -77,11 +77,6 @@
 - **Cross-Platform Compatibility:**
   - Ensure `playsound` is compatible with the operating system or use an alternative method for playing sound if needed.
 
-### Final Thoughts
-
-- The program is designed to be simple and functional, focusing on setting and triggering an alarm based on user input.
-- Ensuring the robustness and user-friendliness of the program through validation and error handling is important for a better user experience.
-
 
 
 
